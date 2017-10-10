@@ -1,4 +1,4 @@
-<?php
+ <?php
 
 
 
@@ -23,7 +23,7 @@
 
 
 
-    $statement = mysqli_prepare($con, "INSERT INTO user (user_id, name, username, password) VALUES (?, ?, ?)");
+    $statement = mysqli_prepare($con, "INSERT INTO user (user_id, name, username, password) VALUES (?, ?, ?, ?)");
 
 
 
