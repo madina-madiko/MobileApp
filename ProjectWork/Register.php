@@ -1,6 +1,6 @@
 <?php
 
-    $con = mysqli_connect("localhost", "root", "", "user");
+    $con = mysqli_connect("localhost", "root", "", "mobileapp");
 
     
 
